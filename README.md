@@ -60,8 +60,8 @@ once they reach a solid state, they'll appear here 👀
 
 ## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szympik&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szympik&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szympik&layout=compact&langs_count=6&theme=tokyonight)
+
 
 ---
 
