@@ -61,3 +61,6 @@ once they reach a solid state, they'll appear here 👀
 ## 📫 Contact
 If you want to talk about **ML, data, backend, or internships** — feel free to reach out.
 
+📧 **Email:** [adrian.paluch04@gmail.com](mailto:adrian.paluch04@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/adrianpaluch](https://www.linkedin.com/in/adrianpaluch/)
+
