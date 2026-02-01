@@ -58,13 +58,6 @@ once they reach a solid state, they'll appear here 👀
 
 ---
 
-## 📊 GitHub stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szympik&layout=compact&langs_count=6&theme=tokyonight)
-
-
----
-
 ## 📫 Contact
 If you want to talk about **ML, data, backend, or internships** — feel free to reach out.
 
