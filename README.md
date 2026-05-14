@@ -28,17 +28,14 @@ Currently looking towards **internships / junior roles** in:
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![MSSQL](https://img.shields.io/badge/MS_SQL-111111?style=for-the-badge&logo=microsoftsqlserver)
 
 ### Data & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
-![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter)
 
 ### Tools & Environment
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-111111?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 
@@ -53,8 +50,23 @@ Currently looking towards **internships / junior roles** in:
 ---
 
 ## 🚧 Projects
-I'm currently working on new projects —  
-once they reach a solid state, they'll appear here 👀
+I'm currently working on a few things — here are some of them 👀  
+
+### 🧩 Maze Algorithms Visualizer  
+Visual exploration of maze generation & pathfinding algorithms.  
+→ [Repository](https://github.com/szympik/maze-algorithms-visualizer?utm_source=chatgpt.com)
+
+### 🎲 Yahtzee (PyGame)  
+Desktop Yahtzee game with dice animations, scoring system and UI.  
+→ [Repository](https://github.com/szympik/Yathzee_PyGame?utm_source=chatgpt.com)
+
+### 🖱️ Gear VR Controller → Mouse  
+Use Samsung Gear VR controller as a Windows mouse.  
+→ [Repository](https://github.com/szympik/gear-vr-controller-mouse?utm_source=chatgpt.com)
+
+### 🔋 Logitech G Pro X Battery Tray  
+System tray app showing headset battery level on Windows.  
+→ [Repository](https://github.com/szympik/logitech-gpro-x-battery-tray?utm_source=chatgpt.com)
 
 ---
 
