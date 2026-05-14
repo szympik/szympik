@@ -54,19 +54,19 @@ I'm currently working on a few things — here are some of them 👀
 
 ### 🧩 Maze Algorithms Visualizer  
 Visual exploration of maze generation & pathfinding algorithms.  
-→ [Repository](https://github.com/szympik/maze-algorithms-visualizer?utm_source=chatgpt.com)
+→ [Repository](https://github.com/szympik/maze-algorithms-visualizer)
 
 ### 🎲 Yahtzee (PyGame)  
 Desktop Yahtzee game with dice animations, scoring system and UI.  
-→ [Repository](https://github.com/szympik/Yathzee_PyGame?utm_source=chatgpt.com)
+→ [Repository](https://github.com/szympik/Yathzee_PyGame)
 
 ### 🖱️ Gear VR Controller → Mouse  
 Use Samsung Gear VR controller as a Windows mouse.  
-→ [Repository](https://github.com/szympik/gear-vr-controller-mouse?utm_source=chatgpt.com)
+→ [Repository](https://github.com/szympik/gear-vr-controller-mouse)
 
 ### 🔋 Logitech G Pro X Battery Tray  
 System tray app showing headset battery level on Windows.  
-→ [Repository](https://github.com/szympik/logitech-gpro-x-battery-tray?utm_source=chatgpt.com)
+→ [Repository](https://github.com/szympik/logitech-gpro-x-battery-tray)
 
 ---
 
